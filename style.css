@@ -237,9 +237,6 @@ p {
 
 @media (width > 900px) {
 
-  * {
-    outline: 1px dashed red;
-  }
 
   body {
     display: flex;
